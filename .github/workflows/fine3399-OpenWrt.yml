@@ -15,7 +15,7 @@ env:
   CACHE_TOOLCHAIN: true
   UPLOAD_BIN_DIR: false
   FIRMWARE_RELEASE: true
-  FIRMWARE_TAG: fine3399
+  FIRMWARE_TAG: fine-3399
   TZ: Asia/Shanghai
 
 jobs:
